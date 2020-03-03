@@ -11,11 +11,15 @@
 <img src="https://user-images.githubusercontent.com/41196217/75736263-12079b80-5d40-11ea-88f6-5f67553e0556.png" width="480px">
 
 ## Usage
+ターミナル上で次のコマンドを実行してください
 ```
 python main.py
 ```
 ## Install
+インストール方法は以下の通りです
 ```
+git clone <this repository name>
+
 pip install PySimpleGUI
 pip install pandas
 pip isntall selenium
