@@ -6,8 +6,7 @@ class Scraping_GUI():
         #  セクション1 - オプションの設定と標準レイアウト
         sg.theme('Dark Blue 3')
 
-        self.layout = [
-            [sg.Text('Python GUI')],
+        self.layout = 
             [sg.Text('キーワード', size=(15, 1)), sg.InputText('〇〇屋さん')],
             [sg.Text('エリアワード', size=(15, 1)), sg.InputText('△△△△村')],
             [sg.Submit(button_text='検索する')]
