@@ -24,9 +24,9 @@ python main.py
 ```
 git clone <this repository name>
 
-pip install PySimpleGUI
-pip install pandas
-pip isntall selenium
+pip install PySimpleGUI==4.16.0
+pip install pandas==0.25.1
+pip isntall selenium==3.141.0
 ```
 
 別途ダウンロードしたchromedriverをpythonのパッケージフォルダに入れておく必要があります。
